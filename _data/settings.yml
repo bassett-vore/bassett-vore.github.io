@@ -3,4 +3,4 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 contacts:
-- {name: 'Steve Baskauf', title: 'Partner', department: 'Digital Assets', institution: 'Vanderbilt University Libraries', institution_address: '4010 Ada Road, Lima, OH 45801', email: 'steve.baskauf@gmail.com', image: 'assets/img/contact.jpg'}
+- {name: 'Bassett-Vore LFP', institution_address: '4010 Ada Road, Lima, OH 45801', email: 'steve.baskauf@gmail.com', image: 'assets/img/contact.jpg'}
