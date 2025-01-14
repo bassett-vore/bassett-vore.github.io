@@ -1,0 +1,1 @@
+The Bassett-Vore LFP operates an 80 acre farm and 3000 sq.ft. commercial building in Bath Township, Allen County, Ohio. It also is the steward of an undeveloped stretch of the Ottawa River and about 10 acres of native forest. 
