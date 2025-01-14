@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 ---
-<h1>Partners:</h1>
+<h2>Partners:</h2>
 <p>
 <em>James H. Bassett</em>
 </p>
