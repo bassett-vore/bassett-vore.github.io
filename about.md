@@ -6,9 +6,9 @@ title: "About"
 
 The partnership manages a 3000 sqare foot <strong>professional business office building</strong> at 4010 Ada Road, which it is currently using as the headquarters for its rental real estate business.
 
-It owns approximately 80 acres of productive agricultural land, which is rented primarily for corn and soybean production.
+It owns approximately 80 acres of productive <strong>agricultural land</strong>, which is rented primarily for corn and soybean production.
 
-The partnership also owns about a half mile stretch of the scenic Ottawa River, which it maintains in a natural state, and approximately 10 acres of undisturbed native forest.
+The partnership also owns about a half mile stretch of the <strong>scenic Ottawa River</strong>, which it maintains in a natural state, and approximately 10 acres of undisturbed native forest.
 
 <h2>Partners:</h2>
 <p>
